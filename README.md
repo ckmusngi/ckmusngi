@@ -72,29 +72,6 @@ and business automation.
 
 ## 🚀 Featured Projects
 
-### 🤖 InterviewPrep AI
-
-AI-powered interview preparation tool that analyzes a candidate's
-**resume and job description** to create a personalized interview
-cheat sheet.
-
-**Features**
-
-- Resume PDF/DOCX parsing
-- Job description analysis
-- Resume ↔ Job matching
-- HR & initial screening questions
-- Technical interview questions
-- Behavioral questions
-- Project & experience questions
-- Personalized suggested answers
-- Skill-gap detection
-- Local AI / LLM support
-
-**Tech:** Next.js • TypeScript • AI/LLM • Document Parsing
-
----
-
 ### 🔗 API & Systems Integrations
 
 Built integrations connecting business platforms and synchronizing
