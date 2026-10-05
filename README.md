@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="./assets/github-banner.png" width="100%" alt="Cyrill Kiel Musngi - Software & AI Engineer" />
+
+<br/>
+
+<a href="https://cyrillkm.online">
+  <img src="https://img.shields.io/badge/Portfolio-cyrillkm.online-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 # 👋 Hi, I'm Cyrill Kiel Musngi
 
 ### Software & AI Engineer
