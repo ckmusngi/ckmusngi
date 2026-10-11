@@ -71,9 +71,32 @@ and I work remotely with teams in **Australia and the UK**.
   <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
-**Integrations:** Xero • HubSpot • Monday.com • MYOB • Google Maps API<br/>
-**Payments:** Stripe • D24 • Prontopaga • Dragontech88<br/>
-**APIs:** REST • Webhooks • WebSockets
+### Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYOB-6100A5?style=for-the-badge&logo=myob&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+### Payments
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/D24-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prontopaga-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dragontech88-1E1E1E?style=for-the-badge" />
+</p>
+
+### APIs
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-2E3440?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
 ---
 
