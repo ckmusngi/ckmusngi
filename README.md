@@ -106,8 +106,7 @@ and I work remotely with teams in **Australia and the UK**.
   <tr>
     <td width="50%" valign="top">
       <h3>🇵🇭 Blue Wonders Consultancy</h3>
-      <sub><b>Web Developer · Remote</b></sub><br/>
-      <img src="https://img.shields.io/badge/2024%20%E2%80%93%202026-6366F1?style=flat-square" />
+      <sub><b>Web Developer · Remote</b></sub>
       <p>Payment gateway integrations across Latin America and conversion tracking for campaign attribution.</p>
       <img src="https://img.shields.io/badge/D24-1E1E1E?style=flat-square" />
       <img src="https://img.shields.io/badge/Prontopaga-1E1E1E?style=flat-square" />
@@ -116,8 +115,7 @@ and I work remotely with teams in **Australia and the UK**.
     </td>
     <td width="50%" valign="top">
       <h3>🇦🇺 Upstream</h3>
-      <sub><b>Full Stack Developer · Contract</b></sub><br/>
-      <img src="https://img.shields.io/badge/2019%20%E2%80%93%202026-0EA5E9?style=flat-square" />
+      <sub><b>Full Stack Developer · Contract</b></sub>
       <p>End-to-end full-stack projects and two-way accounting &amp; CRM integrations.</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/Xero-13B5EA?style=flat-square&logo=xero&logoColor=white" />
@@ -128,8 +126,7 @@ and I work remotely with teams in **Australia and the UK**.
   <tr>
     <td width="50%" valign="top">
       <h3>🇬🇧 CQ Business Management</h3>
-      <sub><b>Full Stack Developer · Contract</b></sub><br/>
-      <img src="https://img.shields.io/badge/2025-10B981?style=flat-square" />
+      <sub><b>Full Stack Developer · Contract</b></sub>
       <p>Laravel features and REST APIs for a business management platform.</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
@@ -137,8 +134,7 @@ and I work remotely with teams in **Australia and the UK**.
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Earlier Roles</h3>
-      <sub><b>Quantum Crowd · Lagotronics</b></sub><br/>
-      <img src="https://img.shields.io/badge/2017%20%E2%80%93%202019-64748B?style=flat-square" />
+      <sub><b>Quantum Crowd · Lagotronics</b></sub>
       <p>React.js and blockchain prototyping; animatronics programming for museum exhibits.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
