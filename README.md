@@ -102,10 +102,12 @@ and I work remotely with teams in **Australia and the UK**.
 
 ## 💼 Experience Highlights
 
-- 💳 **Blue Wonders Consultancy** _(2024 – Present)_ — Payment gateway integrations across Latin America and conversion tracking (GA4, Meta, TikTok)
-- 🔗 **Upstream, Australia** _(2019 – 2026)_ — End-to-end full-stack projects and two-way Xero, MYOB, HubSpot & Monday.com integrations
-- 🇬🇧 **CQ Business Management Software, UK** _(2025)_ — Laravel features and REST APIs for a business management platform
-- 🌱 **Earlier:** React.js and blockchain prototyping at Quantum Crowd; animatronics programming at Lagotronics
+| Company | Period | Focus |
+| :--- | :---: | :--- |
+| 🇵🇭 **Blue Wonders Consultancy**<br/><sub>Web Developer · Remote</sub> | `2024 – Present` | Payment gateway integrations across Latin America and conversion tracking (GA4, Meta, TikTok) |
+| 🇦🇺 **Upstream**<br/><sub>Full Stack Developer · Contract</sub> | `2019 – 2026` | End-to-end full-stack projects and two-way Xero, MYOB, HubSpot & Monday.com integrations |
+| 🇬🇧 **CQ Business Management Software**<br/><sub>Full Stack Developer · Contract</sub> | `2025` | Laravel features and REST APIs for a business management platform |
+| 🌱 **Earlier Roles**<br/><sub>Quantum Crowd · Lagotronics</sub> | `2017 – 2019` | React.js and blockchain prototyping; animatronics programming in Arduino & C# |
 
 ---
 
