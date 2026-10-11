@@ -102,12 +102,50 @@ and I work remotely with teams in **Australia and the UK**.
 
 ## 💼 Experience Highlights
 
-| Company | Period | Focus |
-| :--- | :---: | :--- |
-| 🇵🇭 **Blue Wonders Consultancy**<br/><sub>Web Developer · Remote</sub> | `2024 – Present` | Payment gateway integrations across Latin America and conversion tracking (GA4, Meta, TikTok) |
-| 🇦🇺 **Upstream**<br/><sub>Full Stack Developer · Contract</sub> | `2019 – 2026` | End-to-end full-stack projects and two-way Xero, MYOB, HubSpot & Monday.com integrations |
-| 🇬🇧 **CQ Business Management Software**<br/><sub>Full Stack Developer · Contract</sub> | `2025` | Laravel features and REST APIs for a business management platform |
-| 🌱 **Earlier Roles**<br/><sub>Quantum Crowd · Lagotronics</sub> | `2017 – 2019` | React.js and blockchain prototyping; animatronics programming in Arduino & C# |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇵🇭 Blue Wonders Consultancy</h3>
+      <sub><b>Web Developer · Remote</b></sub><br/>
+      <img src="https://img.shields.io/badge/2024%20%E2%80%93%202026-6366F1?style=flat-square" />
+      <p>Payment gateway integrations across Latin America and conversion tracking for campaign attribution.</p>
+      <img src="https://img.shields.io/badge/D24-1E1E1E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Prontopaga-1E1E1E?style=flat-square" />
+      <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+      <img src="https://img.shields.io/badge/Meta%20CAPI-0467DF?style=flat-square&logo=meta&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇦🇺 Upstream</h3>
+      <sub><b>Full Stack Developer · Contract</b></sub><br/>
+      <img src="https://img.shields.io/badge/2019%20%E2%80%93%202026-0EA5E9?style=flat-square" />
+      <p>End-to-end full-stack projects and two-way accounting &amp; CRM integrations.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xero-13B5EA?style=flat-square&logo=xero&logoColor=white" />
+      <img src="https://img.shields.io/badge/MYOB-6100A5?style=flat-square&logo=myob&logoColor=white" />
+      <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇬🇧 CQ Business Management</h3>
+      <sub><b>Full Stack Developer · Contract</b></sub><br/>
+      <img src="https://img.shields.io/badge/2025-10B981?style=flat-square" />
+      <p>Laravel features and REST APIs for a business management platform.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Earlier Roles</h3>
+      <sub><b>Quantum Crowd · Lagotronics</b></sub><br/>
+      <img src="https://img.shields.io/badge/2017%20%E2%80%93%202019-64748B?style=flat-square" />
+      <p>React.js and blockchain prototyping; animatronics programming for museum exhibits.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
