@@ -125,14 +125,6 @@ and I work remotely with teams in **Australia and the UK**.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🇬🇧 CQ Business Management</h3>
-      <sub><b>Full Stack Developer · Contract</b></sub>
-      <p>Laravel features and REST APIs for a business management platform.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
       <h3>🌱 Earlier Roles</h3>
       <sub><b>Quantum Crowd · Lagotronics</b></sub>
       <p>React.js and blockchain prototyping; animatronics programming for museum exhibits.</p>
