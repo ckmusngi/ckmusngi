@@ -125,10 +125,15 @@ and I work remotely with teams in **Australia and the UK**.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 Earlier Roles</h3>
-      <sub><b>Quantum Crowd · Lagotronics</b></sub>
-      <p>React.js and blockchain prototyping; animatronics programming for museum exhibits.</p>
+      <h3>⛓️ Quantum Crowd</h3>
+      <sub><b>React.js · Blockchain Prototyping</b></sub>
+      <p>React.js front-end development and blockchain prototyping.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Lagotronics</h3>
+      <sub><b>Animatronics Programming</b></sub>
+      <p>Animatronics programming for museum exhibits.</p>
       <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" />
     </td>
