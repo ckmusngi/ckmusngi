@@ -125,13 +125,14 @@ and I work remotely with teams in **Australia and the UK**.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⛓️ Quantum Crowd</h3>
+      <h3>🇵🇭 Quantum Crowd</h3>
       <sub><b>React.js · Blockchain Prototyping</b></sub>
       <p>React.js front-end development and blockchain prototyping.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Corda-EC1D24?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Lagotronics</h3>
+      <h3>🇵🇭 Lagotronics</h3>
       <sub><b>Animatronics Programming</b></sub>
       <p>Animatronics programming for museum exhibits.</p>
       <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
