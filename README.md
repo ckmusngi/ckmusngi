@@ -34,7 +34,6 @@ and I work remotely with teams in **Australia and the UK**.
 - 📈 Implementing conversion tracking with **GA4, Meta Conversions API & TikTok**
 - ☁️ Deploying on **AWS, Google Cloud Platform, Docker & Nginx**
 - 🧠 Using AI-assisted development tools such as **Claude & GitHub Copilot**
-- 🚀 Currently building **InterviewPrep AI**
 - 📍 Based in Pampanga, Philippines
 
 ---
